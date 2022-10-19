@@ -1,0 +1,94 @@
+body {
+    background: #0da3b4 ;
+    max-width: 1440px;
+    height: 500px;
+    overflow: hidden;
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .bottom {
+    position:absolute;
+    top: -1140px;
+    left: -300px;
+    position: relative;
+    margin-left: 10px;
+    filter: brightness(200%);
+  }/*# sourceMappingURL=main.css.map */
+  
+  .top {
+    position: absolute;
+    top: 370px;
+    left: 800px;
+    z-index: -1;
+  }
+  
+  .profile-card {
+    width: 390px;
+    position: relative;
+    backdrop-filter: blur(15px);
+    border: 2px solid #ffffff40;
+    padding: 3rem 5rem;
+    display: flex;
+    flex-direction: column;
+    
+    background: white;
+    position: relative;
+    margin-left: 550px;
+    border: 5px solid;
+    border-color: white;
+    margin-top: 125px;
+    border-radius: 15px;
+    text-align: center;
+    height: 400px;
+    margin-bottom: -100px;
+  }
+  
+  .line {
+    border-top: 1px solid black;
+    position: relative;
+    margin-top: 70px;
+    margin-left: -85px;
+  }
+  
+  .patern {
+    position: relative;
+    margin-left: 550px;
+    bottom: 400px;
+    width: 390px;
+    border-radius: 15px 15px 0 0;
+  }
+  
+  .followers {
+    position: absolute;
+    margin-left: -50px;
+    margin-top: 30px;
+  }
+  
+  .likes {
+    position: relative;
+    margin-left: -2px;
+    margin-top: 30px;
+  }
+  
+  .photos{
+    position: relative;
+    margin-left: 210px;
+    margin-top: -37px;
+  }
+  
+  .victor{
+    border-radius: 100px;
+    position: relative;
+    bottom: 50px;
+  }
+
+  .victor-1 {
+    position: relative;
+    margin-left: 695px;
+    top: 355px;
+    margin-bottom: 100px;
+    z-index: 2;
+    border-radius: 100px;
+    border: 4px solid white;
+  }
